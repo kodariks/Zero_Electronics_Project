@@ -1,0 +1,19 @@
+Error during purchase prediction: Object of type int64 is not JSON serializable
+Error during purchase prediction: Object of type int64 is not JSON serializable
+Error during purchase prediction: Object of type int64 is not JSON serializable
+Error during purchase prediction: Object of type int64 is not JSON serializable
+Error during purchase prediction: Object of type int64 is not JSON serializable
+Error during purchase prediction: Object of type int64 is not JSON serializable
+Error during purchase prediction: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Discount_Sensitivity
+- Gender_Male
+- Loyalty_Score
+- Promo_Response
+- Purchase_Frequency
+
+Error during purchase prediction: Object of type int64 is not JSON serializable
+Error during purchase prediction: Object of type int64 is not JSON serializable
+Error during purchase prediction: Object of type int64 is not JSON serializable
+Error during purchase prediction: Object of type int64 is not JSON serializable
+Error during purchase prediction: Object of type int64 is not JSON serializable
